@@ -1,0 +1,34 @@
+body {
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+	color: black;
+}
+
+/* .main-nav{
+	text-decoration: none;
+	height: 48px;
+	padding: 6px;
+}
+
+ul li {
+	display: inline;
+}
+
+.push {
+	float: right;
+}
+
+.smallImage {
+	height:40px;
+	width:40px;
+	border-radius: 25px;
+} */
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
